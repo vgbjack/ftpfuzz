@@ -3233,17 +3233,17 @@
   -->
   <Run name="DefaultRun">
     <!-- Authentication -->
-    <!--<Test ref="ATestUSER"/>
+    <Test ref="ATestUSER"/>
     <Test ref="ATestPASS"/>
     <Test ref="ATestUSERPASS1"/>
     <Test ref="ATestUSERPASS2"/>
     <Test ref="ATestUSERPASS3"/>
     <Test ref="ATestACCT"/>
     <Test ref="ATestHELP"/>
-    <Test ref="ATestQUIT"/>-->
+    <Test ref="ATestQUIT"/>
 
     <!-- Special commands -->
-    <!--<Test ref="TestPASVAPPE"/>
+    <Test ref="TestPASVAPPE"/>
     <Test ref="TestPASVSTOR"/>
     <Test ref="TestPASVRETR"/>
     <Test ref="TestPASVSTOU"/>
@@ -3258,14 +3258,14 @@
     <Test ref="TestRESTAPPE"/>
     <Test ref="TestRESTSTOR"/>
     <Test ref="TestRESTRETR"/>
-    <Test ref="TestRNFRRNTO"/>-->
+    <Test ref="TestRNFRRNTO"/>
 
 
     <!-- Standard commands -->
-    <!--<Test ref="TestHELP"/>
-    <Test ref="TestACCT"/>-->
+    <Test ref="TestHELP"/>
+    <Test ref="TestACCT"/>
     <Test ref="TestCWD"/>
-    <!--<Test ref="TestCDUP"/>
+    <Test ref="TestCDUP"/>
     <Test ref="TestSMNT"/>
     <Test ref="TestREIN"/>
     <Test ref="TestQUIT"/>
@@ -3296,10 +3296,10 @@
     <Test ref="TestSYST"/>
     <Test ref="TestSTAT"/>
     <Test ref="TestNOOP"/>
-    <Test ref="TestHOST"/>-->
+    <Test ref="TestHOST"/>
 
     <!-- Extended commands -->
-    <!--<Test ref="TestAUTH"/>
+    <Test ref="TestAUTH"/>
     <Test ref="TestADAT"/>
     <Test ref="TestPROT"/>
     <Test ref="TestPBSZ"/>
@@ -3326,7 +3326,7 @@
     <Test ref="TestXMKD"/>
     <Test ref="TestXPWD"/>
     <Test ref="TestXCWD"/>
-    <Test ref="TestXCUP"/>-->
+    <Test ref="TestXCUP"/>
 
 
     <!--<Test ref="TestENC"/>-->
