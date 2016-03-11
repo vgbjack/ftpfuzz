@@ -1,0 +1,1 @@
+This projects provides the input files for fuzzing FTP protocol for Peach and Sulley fuzzer. It also provides the results of the fuzzing process.
